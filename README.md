@@ -12,8 +12,6 @@
 
 ## II.  Github
 
-https://github.com/caomingkai/Online-Exam-System.git
-
 - MongoDB, Mongoose
 - Node.js, Express
 - React, Redux, React Router
